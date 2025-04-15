@@ -1,7 +1,6 @@
 # 📁 Project Title
 
 *This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
-[CareerFoundry (opens in new tab)](https://careerfoundry.com)
 
 ---
 
