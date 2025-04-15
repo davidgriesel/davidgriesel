@@ -6,8 +6,8 @@
 
 ## 🧰 Tools & Skills
 
-- Tools: Python | SQL | Excel | Tableau | [others]
-- Skills: Data Cleaning | Exploratory Data Analysis (EDA) | Statistical Analysis | Data Visualisation | [others]
+- **Tools**: Python | SQL | Excel | Tableau | [others]
+- **Skills**: Data Cleaning | Exploratory Data Analysis (EDA) | Statistical Analysis | Data Visualisation | [others]
 
 ---
 
@@ -70,9 +70,15 @@ Outline of the analytical approach:
 - **Areas for Improvement**: [Reflect on aspects that could be enhanced in future projects.]
 - **Next Steps**: [Outline potential future work or questions that arose from this project.]
 
-## 🗂 Repository Structure
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
+
+## 🗂 Repository Structure
 
 ```text
 ├── data/                 # Cleaned datasets (text format)
@@ -80,12 +86,5 @@ Outline of the analytical approach:
 ├── sql-queries/          # SQL scripts
 ├── deliverables/         # Reports, presentations, and summaries
 ├── visuals/              # Charts and graphics used in reporting
+├── LICENSE               # Project license (MIT)
 └── README.md             # Project overview
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
