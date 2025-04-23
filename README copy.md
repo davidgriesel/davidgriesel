@@ -39,7 +39,7 @@ GameCo’s board is preparing the 2017 marketing budget and assumes that regiona
 🔗 [Original Dataset](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
 🔗 [Modified Dataset](https://coach-courses-us.s3.amazonaws.com/public/courses/intro-to-data/E4/vgsales_dirty.xlsx)
 
-## ⚙️ Methodology
+## Methodology
 
 - **Data Profiling & Exploration**: [Describe initial EDA and key metrics observed]
 - **Cleaning Process**: [Steps taken to clean and prepare the data]
