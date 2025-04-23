@@ -6,8 +6,8 @@
 
 ## 🧰 Tools Used 
 
-- Excel - Data Profiling | Cleaning | Analysis
-- KeyNote - Presentation
+- **Excel** - Data Profiling | Cleaning | Analysis
+- **KeyNote** - Presentation
 
 ## Skills Demonstrated
 
@@ -19,25 +19,30 @@
 
 ## 📖 Project Overview
 
-- **Background**: GameCo’s board was preparing the 2017 marketing budget and assumed that regional video game sales trends and market shares had remained consistent over time. This analysis was conducted to test that assumption.
-- **Scope**: The project focused exclusively on physical video game sales from 1980 to 2016, analysing global and regional trends in genre performance, publisher dominance, and shifting consumer demand.
-- **Objectives**: 
-    •	Identify the most commercially successful game genres.
-	•	Understand how publisher share evolved globally and regionally.
-	•	Track shifts in popularity over time.
-	•	Investigate changes in regional market sizes and performance.
-- **Key Questions**: 
-	•	Are certain types of games more popular than others?
-	•	What publishers dominate specific markets or regions?
-	•	Have any games or genres increased or decreased in popularity over time?
-	•	Have regional sales trends shifted, or do they remain consistent?
+### Background
+GameCo’s board was preparing the 2017 marketing budget and assumed that regional video game sales trends and market shares had remained consistent over time. This analysis was conducted to test that assumption.
+
+### Scope
+The project uses video game sales data from 1980 to 2016 and 
+
+### Objectives
+- Identify the most commercially successful game genres.
+- Understand how publisher share evolved globally and regionally.
+- Track shifts in popularity over time.
+- Investigate changes in regional market sizes and performance.
+
+### Key Questions
+- Are certain types of games more popular than others?
+- What publishers dominate specific markets or regions?
+- Have any games or genres increased or decreased in popularity over time?
+- Have regional sales trends shifted, or do they remain consistent?
 
 ---
 
 ## 📊 Data Overview
 
-- **Source**: The original dataset was sourced from VGChartz. A modified version was provided by CareerFoundry as part of the Data Analytics Course
-- **Description**: Contains over 16,000 records of physical video game sales by title from 1980 to 2016, including fields for genre, platform, publisher, and regional sales.
+- **Source**: The original dataset was sourced from VGChartz, but a modified version was provided by CareerFoundry as part of the Data Analytics Course.
+- **Description**: The dataset contains over 16,000 records of physical video game sales by title from 1980 to 2016, including fields for genre, platform, publisher, and regional sales.
 - **Cleaning Notes**:
  	•	Recalculated regional totals where discrepancies existed.
 	•	Removed null values in critical fields.
@@ -48,7 +53,9 @@ The original dataset was sourced from the [Video Game Sales Dataset on Kaggle](h
 The dataset was sourced from **VGChartz**, which tracks global video game sales for titles that have sold more than 100,000 units between 1980 and 2016. The data includes variables such as platform, genre, publisher, and sales by region.
 
 🔗 [VGChartz Methodology](http://www.vgchartz.com/methodology.php)  
+
 🔗 [Download Dataset](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
+
 
 
 
