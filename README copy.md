@@ -36,8 +36,8 @@ GameCo’s board is preparing the 2017 marketing budget and assumes that regiona
 - **Cleaning Notes**: Records containing missing values affecting 2,8% of the dataset were removed. Recalculated missing values in Other_Sales variable as the difference between global and other regional sales values. Other cleaning steps were minor.
 
 🔗 [VGChartz Methodology](http://www.vgchartz.com/methodology.php)  
-🔗 [Original Dataset](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
-🔗 [Modified Dataset](https://coach-courses-us.s3.amazonaws.com/public/courses/intro-to-data/E4/vgsales_dirty.xlsx)
+🔗 [Original Dataset](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)  
+🔗 [Modified Dataset](https://coach-courses-us.s3.amazonaws.com/public/courses/intro-to-data/E4/vgsales_dirty.xlsx)  
 
 ## Methodology
 
