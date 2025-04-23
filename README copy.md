@@ -27,17 +27,17 @@ GameCo’s board is preparing the 2017 marketing budget and assumes that regiona
 - Have regional sales trends shifted, or do they remain consistent?
 
 
-## 📊 Data
+## Data
 
-- **Source**: The original dataset was sourced from **VGChartz**, but a modified version was provided by CareerFoundry as part of the Data Analytics Course.
+- **Source**: The original dataset was sourced from **VGChartz**, and provided by CareerFoundry as part of the Data Analytics Course, including a modified version for practicing cleaning principles. 
 - **Contents**: The dataset tracks global video game sales for titles that have sold more than 100,000 by publish year and includes variables such as platform, genre, publisher, and sales by region.
 - **Collection**: VGChartz uses combination of retail sampling and estimation methods to represent broader sales volumes that include digital sales. The methodology changed in 2018, discontinuing estimation and instead reporting only official figures released by publishers. 
 - **Limitations & Biases**: Sales figures may not represent the full population. Estimating could misrepresent digital sales and skew total sales figures. Changed methodology results in pre- and post-2018 data not being directly comparable.
 - **Cleaning Notes**: Records containing missing values affecting 2,8% of the dataset were removed. Recalculated missing values in Other_Sales variable as the difference between global and other regional sales values. Other cleaning steps were minor.
 
 🔗 [VGChartz Methodology](http://www.vgchartz.com/methodology.php)  
-🔗 [Download Dataset](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
-
+🔗 [Original Dataset](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
+🔗 [Modified Dataset](https://coach-courses-us.s3.amazonaws.com/public/courses/intro-to-data/E4/vgsales_dirty.xlsx)
 
 ## ⚙️ Methodology
 
