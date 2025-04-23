@@ -1,10 +1,9 @@
-# 📁 Video Game Market Analysis: GameCo
+# Video Game Market Analysis: GameCo
 
 *This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
----
 
-## 🧰 Tools Used 
+## Tools Used 
 
 - **Excel** - Data Profiling | Cleaning | Analysis
 - **KeyNote** - Presentation
@@ -15,21 +14,11 @@
 - Descriptive Statistics | Trend Analysis
 - Deriving Insights | Data Visualisation | Storytelling
 
----
 
-## 📖 Project Overview
+## Project Overview
 
 ### Background
-GameCo’s board was preparing the 2017 marketing budget and assumed that regional video game sales trends and market shares had remained consistent over time. This analysis was conducted to test that assumption.
-
-### Scope
-The project uses video game sales data from 1980 to 2016 and 
-
-### Objectives
-- Identify the most commercially successful game genres.
-- Understand how publisher share evolved globally and regionally.
-- Track shifts in popularity over time.
-- Investigate changes in regional market sizes and performance.
+GameCo’s board is preparing the 2017 marketing budget and assumes that regional video game sales trends and market shares remained consistent over time. This analysis test that assumption.
 
 ### Key Questions
 - Are certain types of games more popular than others?
@@ -37,33 +26,20 @@ The project uses video game sales data from 1980 to 2016 and
 - Have any games or genres increased or decreased in popularity over time?
 - Have regional sales trends shifted, or do they remain consistent?
 
----
 
-## 📊 Data Overview
+## 📊 Data
 
-- **Source**: The original dataset was sourced from VGChartz, but a modified version was provided by CareerFoundry as part of the Data Analytics Course.
-- **Description**: The dataset contains over 16,000 records of physical video game sales by title from 1980 to 2016, including fields for genre, platform, publisher, and regional sales.
-- **Cleaning Notes**:
- 	•	Recalculated regional totals where discrepancies existed.
-	•	Removed null values in critical fields.
-	•	Excluded post-2016 data to align with the project scope.
-- **Limitations | Disclaimers**: [Notes on licensing, usage, or any relevant context]
-
-The original dataset was sourced from the [Video Game Sales Dataset on Kaggle](https://www.kaggle.com/datasets/gregorut/videogame-sales-with-ratings). Publisher data, genre classification, and regional sales volumes were cleaned and restructured for trend analysis.
-The dataset was sourced from **VGChartz**, which tracks global video game sales for titles that have sold more than 100,000 units between 1980 and 2016. The data includes variables such as platform, genre, publisher, and sales by region.
+- **Source**: The original dataset was sourced from **VGChartz**, but a modified version was provided by CareerFoundry as part of the Data Analytics Course.
+- **Contents**: The dataset tracks global video game sales for titles that have sold more than 100,000 by publish year and includes variables such as platform, genre, publisher, and sales by region.
+- **Collection**: VGChartz uses combination of retail sampling and estimation methods to represent broader sales volumes that include digital sales. The methodology changed in 2018, discontinuing estimation and instead reporting only official figures released by publishers. 
+- **Limitations & Biases**: Sales figures may not represent the full population. Estimating could misrepresent digital sales and skew total sales figures. Changed methodology results in pre- and post-2018 data not being directly comparable.
+- **Cleaning Notes**: Records containing missing values affecting 2,8% of the dataset were removed. Recalculated missing values in Other_Sales variable as the difference between global and other regional sales values. Other cleaning steps were minor.
 
 🔗 [VGChartz Methodology](http://www.vgchartz.com/methodology.php)  
-
 🔗 [Download Dataset](https://images.careerfoundry.com/public/courses/intro-to-data/E1/vgsales.xlsx)
 
 
-
-
----
-
 ## ⚙️ Methodology
-
-Outline of the analytical approach:
 
 - **Data Profiling & Exploration**: [Describe initial EDA and key metrics observed]
 - **Cleaning Process**: [Steps taken to clean and prepare the data]
