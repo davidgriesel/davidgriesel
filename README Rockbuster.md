@@ -1,90 +1,71 @@
-# 📁 Project Title
+# Streaming Service Data Queries
 
 *This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
----
 
-## 🧰 Tools & Skills
+## Overview
 
-- **Tools**: Python | SQL | Excel | Tableau | [others]
-- **Skills**: Data Cleaning | Exploratory Data Analysis (EDA) | Statistical Analysis | Data Visualisation | [others]
+A legacy movie rental company is planning to re-enter the market with a new online streaming service. This project supports the launch strategy by using SQL to query a relational database containing inventory, customer, and payment data—helping to identify revenue-driving films, high-value markets, and regional sales trends to inform content strategy and customer targeting.
 
----
 
-## 📖 Project Overview
+## Key Questions
+1. Which movies contributed the most/least to revenue gain?
+2. What was the average rental duration for all videos?
+3. Which countries are Rockbuster customers based in?
+4. Where are customers with a high lifetime value based?
+5. Do sales figures vary between geographic regions?
 
-- **Background**: [Brief context about the project]
-- **Scope**: [Boundaries and focus]
-- **Objectives**: [Key goals of the analysis]
-- **Key Questions**: [Questions the project aims to answer]
 
----
+## Tools Used 
 
-## 📊 Data Overview
+- **PostgreSQL** - Relational Database
+- **Excel** - Sharing Results | Reporting
+- **DbVisualizer** - Entity Relationship Diagram
+- **Word** - Data Dictionary
+- **PowerPoint** - Presentation
 
-- **Source**: [Link to original dataset or source]
-- **Description**: [Short summary of the dataset]
-- **Cleaning Notes**: [Brief description of any manipulation or cleaning performed]
-- **Disclaimers**: [Notes on licensing, usage, or any relevant context]
 
----
+## Skills Demonstrated
 
-## ⚙️ Methodology
+- Database Setup | Data Structure Interpretation | Data Dictionary Creation
+- SQL Querying | Filtering | Joining | Aggregating | Subqueries | CTEs
+- Data Profiling | Cleaning | Transformation
+- Descriptive Statistics | Segmentation | Trend Analysis
+- Deriving Insights | Data Visualisation | Reporting 
 
-Outline of the analytical approach:
 
-- **Data Profiling & Exploration**: [Describe initial EDA and key metrics observed]
-- **Cleaning Process**: [Steps taken to clean and prepare the data]
-- **Modelling / Analysis Steps**: [Outline techniques or analytical logic used]
-- **Approach**: [Reference to any frameworks used, e.g., CRISP-DM]
+## Data Used
 
----
+This analysis uses a modified version of the DVD Rental dataset originally provided as a sample database for learning and testing SQL with **PostgreSQL**. The dataset was adapted and provided by [**CareerFoundry**](https://careerfoundry.com/en/courses/become-a-data-analyst/) as part of their Data Analytics Course.
 
-## 💡 Key Insights & Recommendations
+- [**Rockbuster Dataset**](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) – Film, inventory, customer, payment, and rental records
 
-- [Insight 1]
-- [Insight 2]
-- [Actionable recommendation or business implication]
+## Deliverables
 
----
+- [**Entity Relationship Diagram**](https://github.com/davidgriesel/03-streaming-service-launch-strategy/tree/main/deliverables)
+- [**Data Dictionary**](https://github.com/davidgriesel/03-streaming-service-launch-strategy/tree/main/deliverables)
+- **Excel Workbook (Results)**
+- [**Presentation**](https://github.com/davidgriesel/03-streaming-service-launch-strategy/tree/main/deliverables)
 
-## 📁 Deliverables
+## Takeaways
 
-- 📄 [Link to final report (PDF)]
-- 📽 [Link to presentation (PPT)]
-- 📊 [Link to interactive Tableau dashboard]
+**Successes** - The project successfully used SQL to query a relational database and extract relevant information in response to specific business questions.
 
----
+**Challenges** – The static and hypothetical nature of the sample data limited opportunities for deeper engagement with real-time stakeholder needs. In the absence of direct business interaction, interpreting findings into practical decisions remained largely hypothetical. Presenting results without feedback loops also limited iteration and refinement of analysis.
 
-## 🔗 Further Reading
+**Way Forward** - Future projects could benefit from working with more interactive stakeholder contexts or simulated business scenarios to mirror the iterative nature of real-world decision-making. Expanding the reporting output to include automated dashboards or integrations with business intelligence platforms could also support more dynamic data consumption.
 
-- [Portfolio project page](https://yourportfolio.com/project-page)
-- [Additional resources or related write-up if applicable]
 
----
+## License
+This project is licensed under the MIT License.
 
-## 📝 Takeaways
 
-- **What I Learned**: [Discuss new skills or knowledge gained during the project.]
-- **Challenges Faced**: [Describe any obstacles encountered and how you addressed them.]
-- **Areas for Improvement**: [Reflect on aspects that could be enhanced in future projects.]
-- **Next Steps**: [Outline potential future work or questions that arose from this project.]
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🗂 Repository Structure
+## Repository Structure
 
 ```text
-├── data/                 # Cleaned datasets (text format)
-├── notebooks/            # Jupyter notebooks or scripts
-├── sql-queries/          # SQL scripts
-├── deliverables/         # Reports, presentations, and summaries
-├── visuals/              # Charts and graphics used in reporting
-├── LICENSE               # Project license (MIT)
-└── README.md             # Project overview
+├── deliverables/         # Final Presentation
+├── workbooks/            # Excel Workbook (Query Outputs)
+├── data/                 # ERD & Data Dictionary
+├── sql-queries/          # SQL Scripts (Exercises & Final Queries)
+├── LICENSE               # Project License (MIT)
+└── README.md             # Project Overview
