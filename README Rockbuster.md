@@ -19,7 +19,7 @@ A legacy movie rental company is planning to re-enter the market with a new onli
 ## Tools Used 
 
 - **PostgreSQL** - Relational Database
-- **Excel** - Sharing Results | Reporting
+- **Excel** - Sharing Results
 - **DbVisualizer** - Entity Relationship Diagram
 - **Word** - Data Dictionary
 - **PowerPoint** - Presentation
@@ -31,7 +31,7 @@ A legacy movie rental company is planning to re-enter the market with a new onli
 - SQL Querying | Filtering | Joining | Aggregating | Subqueries | CTEs
 - Data Profiling | Cleaning | Transformation
 - Descriptive Statistics | Segmentation | Trend Analysis
-- Deriving Insights | Data Visualisation | Reporting 
+- Deriving Insights | Data Visualisation | Presentation
 
 
 ## Data Used
@@ -44,7 +44,8 @@ This analysis uses a modified version of the DVD Rental dataset originally provi
 
 - [**Entity Relationship Diagram**](https://github.com/davidgriesel/03-streaming-service-launch-strategy/tree/main/deliverables)
 - [**Data Dictionary**](https://github.com/davidgriesel/03-streaming-service-launch-strategy/tree/main/deliverables)
-- **Excel Workbook (Results)**
+- **Query Results**
+- [**Tableau Visualisations**](https://public.tableau.com/shared/KMBBM2GM3?:display_count=n&:origin=viz_share_link)
 - [**Presentation**](https://github.com/davidgriesel/03-streaming-service-launch-strategy/tree/main/deliverables)
 
 ## Takeaways
@@ -62,6 +63,7 @@ This project is licensed under the MIT License.
 
 ## Repository Structure
 
+```text
 ├── deliverables/         # Final Presentation
 ├── workbooks/            # Excel Workbook (Query Outputs)
 ├── data/                 # ERD & Data Dictionary
