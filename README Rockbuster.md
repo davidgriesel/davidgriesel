@@ -62,7 +62,6 @@ This project is licensed under the MIT License.
 
 ## Repository Structure
 
-```text
 ├── deliverables/         # Final Presentation
 ├── workbooks/            # Excel Workbook (Query Outputs)
 ├── data/                 # ERD & Data Dictionary
