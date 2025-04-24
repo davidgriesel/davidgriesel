@@ -33,13 +33,14 @@ An online grocery store that engages with customers through a mobile app is look
 
 ## Data Used
 
-This analysis uses publicly available data originally sourced from [**Instacart**](www.instacart.com/datasets/grocery-shopping-2017) via [**Kaggle**](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis). The links as well as an additional customers dataset was provided by [**CareerFoundry**](https://careerfoundry.com/en/courses/become-a-data-analyst/) as part of their Data Analytics Course.
+This analysis uses publicly available data originally sourced from [**Instacart**](www.instacart.com) via [**Kaggle**](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis). The links as well as an additional customers dataset was provided by [**CareerFoundry**](https://careerfoundry.com/en/courses/become-a-data-analyst/) as part of their Data Analytics Course.
 
 - [**Customers**](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip) - Customer ID, Name, Surname, Gender, State, Age, Date Joined, Dependants, Family Status, and Income
-- [**Departments**](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) - Department ID and Name
-- [**OrdersProducts**](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) - Order ID, Product ID, Add to Cart Order, and Reorder Indicator.
-- [**Orders**](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) - Order ID, Order Number, Order Day of Week, Order Hour of Day, Days Since Prior Order.
-- [**Products**](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis) - product ID, Name, Aisle, Department, and Price.
+- [**Instacart Dataset**](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
+    - **Departments** - Department ID and Name
+    - **OrdersProducts** - Order ID, Product ID, Add to Cart Order, and Reorder Indicator.
+    - **Orders** - Order ID, Order Number, Order Day of Week, Order Hour of Day, Days Since Prior Order.
+    - **Products** - product ID, Name, Aisle, Department, and Price.
 
 The Instacart Dataset was accessed on 7 October 2024.
 
