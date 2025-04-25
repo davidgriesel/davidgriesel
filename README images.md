@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td><img src="visuals/Overview.png" width="50%"></td>
-<td>Your descriptive text goes here.</td>
+<td>Your descriptive text goes here.Your descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes here</td>
 </tr>
 </table>
 
