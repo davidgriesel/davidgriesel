@@ -6,11 +6,11 @@
 ![image](visuals/Overview.png)
 
 
-## Side-by-Side with Text (Using Tables) ✅ GitHub-compatible
+## Side-by-Side with Text (Using Tables)
 
 <table>
 <tr>
-<td><img src="visuals/Overview.png" width="600"></td>
+<td><img src="visuals/Overview.png" width="500"></td>
 <td>Your descriptive text goes here.</td>
 </tr>
 </table>
@@ -23,21 +23,12 @@
 | Caption 1                             | Caption 2                             |
 
 
-## HTML Float (Limited GitHub support)
-
-<div>
-  <img src="visuals/Overview.png" align="left" width="300">
-  <p>Your paragraph starts here and wraps around the image if allowed.</p>
-</div>
-
-<!-- Add a full-width spacer to break the layout -->
-
 <p style="clear: both;"></p>
 
 ## Center Aligned Images
 
 <p align="center">
-  <img src="visuals/Overview.png" width="400">
+  <img src="visuals/Overview.png" width="500">
 </p>
 
 
