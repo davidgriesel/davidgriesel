@@ -1,7 +1,7 @@
 # Inserting Images into README
 
 
-## Default (Full Width Inline)
+## Default
 
 ![image](visuals/Overview.png)
 
@@ -20,7 +20,7 @@
 <table style="width:100%">
 <tr>
 <td style="width:50%"><img src="visuals/Overview.png" width="100%"></td>
-<td style="width:50%">Your descriptive text goes here.</td>
+<td style="width:50%">Your descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes here.</td>
 </tr>
 </table>
 
@@ -29,7 +29,7 @@
 
 | ![Overview](visuals/Overview.png)     | ![Conclusion](visuals/Conclusion.png) |
 |:-------------------------------------:|:-------------------------------------:|
-| Caption 1                             | Caption 2                             |
+| Caption 1                             | Your descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes hereYour descriptive text goes here                        |
 
 
 <p style="clear: both;"></p>
@@ -55,5 +55,5 @@
 | Image + caption or paragraph          | HTML table layout                      |
 | Image gallery                         | Markdown table                         |
 | Clickable image                       | '[![Text](img.png)](URL)               |
-| Centered hero image                   | <p align="center">...</p>              |
+| Centered hero image                   | [<p align="center">...</p>]            |
 | Text wrap (if needed)                 | Table layout (more reliable than float)|
