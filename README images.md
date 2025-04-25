@@ -10,8 +10,17 @@
 
 <table>
 <tr>
-<td><img src="visuals/Overview.png" width="500"></td>
+<td><img src="visuals/Overview.png" width="50%"></td>
 <td>Your descriptive text goes here.</td>
+</tr>
+</table>
+
+---
+
+<table style="width:100%">
+<tr>
+<td style="width:50%"><img src="visuals/Overview.png" width="100%"></td>
+<td style="width:50%">Your descriptive text goes here.</td>
 </tr>
 </table>
 
