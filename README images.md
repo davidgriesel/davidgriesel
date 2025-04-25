@@ -28,6 +28,7 @@
 <img src="visuals/Overview.png" align="left" width="300">
 <p>Your paragraph starts here and wraps around the image if allowed.</p>
 
+<div style="clear: both;"></div>
 
 ## Center Aligned Images
 
