@@ -10,7 +10,7 @@
 
 <table>
 <tr>
-<td><img src="visuals/Overview.png" width="250"></td>
+<td><img src="visuals/Overview.png" width="600"></td>
 <td>Your descriptive text goes here.</td>
 </tr>
 </table>
@@ -18,17 +18,21 @@
 
 ## Side-by-Side Images (Gallery Style)
 
-| ![Overview](visuals/Overview.png) | ![Conclusion](visuals/Conclusion.png) |
-|:---------------------------------:|:-------------------------------------:|
-| Caption 1                         | Caption 2                             |
+| ![Overview](visuals/Overview.png)     | ![Conclusion](visuals/Conclusion.png) |
+|:-------------------------------------:|:-------------------------------------:|
+| Caption 1                             | Caption 2                             |
 
 
 ## HTML Float (Limited GitHub support)
 
-<img src="visuals/Overview.png" align="left" width="300">
-<p>Your paragraph starts here and wraps around the image if allowed.</p>
+<div>
+  <img src="visuals/Overview.png" align="left" width="300">
+  <p>Your paragraph starts here and wraps around the image if allowed.</p>
+</div>
 
-<div style="clear: both;"></div>
+<!-- Add a full-width spacer to break the layout -->
+
+<p style="clear: both;"></p>
 
 ## Center Aligned Images
 
@@ -45,11 +49,11 @@
 
 ## Summary of Best Practices:
 
-| Use Case                               | Best Option                             |
-|:--------------------------------------:|:---------------------------------------:|
-| Simple inline image                    | '![Alt](img.png) (Markdown)             |
-| Image + caption or paragraph           | HTML table layout                       |
-| Image gallery                          | Markdown table                          |
-| Clickable image                        | '[![Alt](img.png)](URL)                 |
-| Centered hero image                    | <p align="center">...</p>               |
-| Text wrap (if needed)                  | Table layout (more reliable than float) |
+| Use Case                              | Best Option                            |
+|:-------------------------------------:|:--------------------------------------:|
+| Simple inline image                   | ![Text](img.png) (Markdown)            |
+| Image + caption or paragraph          | HTML table layout                      |
+| Image gallery                         | Markdown table                         |
+| Clickable image                       | '[![Text](img.png)](URL)               |
+| Centered hero image                   | <p align="center">...</p>              |
+| Text wrap (if needed)                 | Table layout (more reliable than float)|
