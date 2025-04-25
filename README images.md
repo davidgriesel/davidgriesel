@@ -18,7 +18,7 @@
 
 ## Side-by-Side Images (Gallery Style)
 
-| ![Overview](visuals/Overview.png)|![Conclusion](visuals/Conclusion.png)|| ![Overview](visuals/Overview.png)
+| ![Overview](visuals/Overview.png)|![Conclusion](visuals/Conclusion.png)| ![Overview](visuals/Overview.png)
 |:---:|:---:|:---:|
 | Caption 1 | Caption 2 | Caption 3 |
 
