@@ -47,9 +47,9 @@
 
 | Use Case                               | Best Option                             |
 |:--------------------------------------:|:---------------------------------------:|
-| Simple inline image                    | ![Alt](img.png) (Markdown)              |
+| Simple inline image                    | '![Alt](img.png) (Markdown)             |
 | Image + caption or paragraph           | HTML table layout                       |
 | Image gallery                          | Markdown table                          |
-| Clickable image                        | [![Alt](img.png)](URL)                  |
+| Clickable image                        | '[![Alt](img.png)](URL)                 |
 | Centered hero image                    | <p align="center">...</p>               |
 | Text wrap (if needed)                  | Table layout (more reliable than float) |
