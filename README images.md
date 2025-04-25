@@ -15,21 +15,12 @@
 </tr>
 </table>
 
----
-
-<table style="width:100%">
-<tr>
-<td style="width:50%"><img src="visuals/Overview.png" width="100%"></td>
-<td style="width:50%">Insert descriptive text here.</td>
-</tr>
-</table>
-
 
 ## Side-by-Side Images (Gallery Style)
 
-| ![Overview](visuals/Overview.png)|![Conclusion](visuals/Conclusion.png)|
-|:---:|:---:|
-| Caption 1 | Insert descriptive text here. |
+| ![Overview](visuals/Overview.png)|![Conclusion](visuals/Conclusion.png)|| ![Overview](visuals/Overview.png)
+|:---:|:---:|:---:|
+| Caption 1 | Caption 2 | Caption 3 |
 
 
 <p style="clear: both;"></p>
