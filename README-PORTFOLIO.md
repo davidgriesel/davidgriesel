@@ -1,14 +1,17 @@
 # Flu Risk Forecasting
+*This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
+
+## Overview
+A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. The project analysed historical influenza data to identify high-risk population groups through correlation analysis between age and deaths, examined seasonal patterns to determine the start and end of flu season, and developed a state-level risk profile to forecast when, where, and how many staff would be required.
 
 ## Tools
 - **Excel** - Data Preparation | Analysis
 - **Tableau** - Visualisation | Forecasting | Storytelling
 
 ## Process
-
 - Data Exploration | Description | Profiling | Cleaning | Transformation & Integration
 - Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Seasonal Forecasting
-- Deriving Insights | Data Visualisation | Reporting | Storytelling
+- Data Visualisation | Storytelling
 
 ## Links
 - **Interim Report** *(link to be added)*
@@ -25,10 +28,6 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 
 # Results
 
-## Overview
-A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. The project analysed historical influenza data to identify high-risk population groups through correlation analysis between age and deaths, examined seasonal patterns to determine the start and end of flu season, and developed a state-level risk profile to forecast when, where, and how many staff would be required.
-
-
 ## Key Questions
 1. Which age groups are most affected by influenza?
 2. Is there a relationship between population size and influenza-related deaths?
@@ -36,7 +35,6 @@ A medical staffing agency that supplies temporary personnel to clinics and hospi
 4. How does the severity of influenza vary from year to year?
 5. Which states are most at risk?
 6. Based on risk, when, where, and how many staff should be deployed?
-
 
 ## Key Insights
 
@@ -56,7 +54,6 @@ Adults aged 65 and older account for the vast majority of influenza-related deat
 </tr>
 </table>
 
-
 ### Seasonality (When?)
 Although the annual severity of influenza varied considerably, peak mortality consistently occurred in January, with Southern states often reporting the highest totals — though vulnerable states were not limited to that region.
 
@@ -72,7 +69,6 @@ Although the annual severity of influenza varied considerably, peak mortality co
 </td>
 </tr>
 </table>
-
 
 ### Risk Classification & Forecasting (Where & How Many?)
 States were classified into high, medium, and low risk based on their elderly populations, guiding an effective resource allocation framework.
@@ -100,7 +96,6 @@ States were classified into high, medium, and low risk based on their elderly po
 </tr>
 </table>
 
-
 ## Key Recommendations
 
 ### Prioritise high-risk states
@@ -111,7 +106,6 @@ Tiering states into high, medium, and low risk allows for efficient and scalable
 
 ### Monitor early trends
 Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
-
 
 ## Takeaways
 
