@@ -1,16 +1,7 @@
-<span style="color:red">This is red text (but may not render on GitHub).</span>
-
-
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue) 
-
-
-[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)](https://your-link-here.com)
-
-
-[![Tableau](https://img.shields.io/badge/Tableau-FF7F50)](https://www.tableau.com/)
-[![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-orange)]()
-[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)]()
-
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-005B96?logo=tableau&logoColor=white)
 
 
 
