@@ -10,6 +10,13 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-004E8F?logoColor=white)
 
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?logo=matplotlib&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-76B900?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
+
 # Flu Risk Forecasting
 
 ## Tools Used 
