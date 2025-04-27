@@ -1,4 +1,4 @@
-# Hello, my name is David — welcome to my GitHub! 👋
+# Hello, my name is David — welcome to my GitHub!
 
 I'm a data analyst with a background in accounting and auditing who transitioned into data analytics after working extensively with financial databases in the audit process.
 
