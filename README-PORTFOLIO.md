@@ -132,10 +132,11 @@ Incorporating data on chronic health conditions and vaccination rates among seni
 
 <b>Repository Structure:</b>
 
-
+<pre>
 ├── deliverables/         # Interim Report
 ├── visuals/              # Charts
 ├── workbooks/            # Excel Workbooks
 ├── LICENSE               # Project License
 └── README.md             # Project Overview
+</pre>
 </p>
