@@ -1,3 +1,5 @@
+<span style="color:red">This is red text (but may not render on GitHub).</span>
+
 # Flu Risk Forecasting
 
 ## Tools Used 
