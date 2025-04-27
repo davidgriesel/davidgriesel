@@ -19,9 +19,27 @@
 
 ### Skills
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50)
+
 ![Data Preparation](https://img.shields.io/badge/Data%20Preparation-2196F3)
+cleaning, transformation, integration
+
 ![Data Manipulation](https://img.shields.io/badge/Data%20Manipulation-FFC107)
+
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-9C27B0)
+Descriptive statistics, hypothesis testing, exploratory analysis
+
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-03A9F4)
 ![Forecasting](https://img.shields.io/badge/Forecasting-FF5722)
 ![Reporting](https://img.shields.io/badge/Reporting-795548)
+
+
+
+
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50)
+![Data Preparation](https://img.shields.io/badge/Data%20Preparation-2196F3)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-9C27B0)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-673AB7)
+![Forecasting](https://img.shields.io/badge/Forecasting-FF5722)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-03A9F4)
+![Reporting](https://img.shields.io/badge/Reporting-795548)
+![Storytelling](https://img.shields.io/badge/Storytelling-607D8B)
