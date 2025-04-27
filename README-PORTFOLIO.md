@@ -34,7 +34,7 @@ This analysis uses publicly available data sourced from the **Centres for Diseas
 # Results
 
 ## Overview
-A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. This analysis supports planning efforts by identifying high-risk population groups using age, examining seasonal trends, and developing a state-level risk profile to help determine when, where, and how many staff may be needed.
+A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. The project analysed historical influenza data to identify high-risk population groups through correlation analysis between age and deaths, examined seasonal patterns to determine the start and end of flu season, and developed a state-level risk profile to forecast when, where, and how many staff would be required.
 
 
 ## Key Questions
@@ -138,11 +138,6 @@ Incorporating data on chronic health conditions and vaccination rates among seni
 <br><br>
 <hr>
 
-<p style="font-size: 12px;">
-<b>License:</b> This project is licensed under the MIT License.
-    
-<br><br>
-    
 <b>Repository Structure:</b>
 
 <pre>
