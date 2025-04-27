@@ -1,4 +1,5 @@
 <span style="color:red">This is red text (but may not render on GitHub).</span>
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue) 
 
 # Flu Risk Forecasting
 
