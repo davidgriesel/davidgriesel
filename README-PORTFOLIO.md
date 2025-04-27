@@ -2,6 +2,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-005B96?logo=tableau&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-005B96?logo=tableau&logoColor=white)
 
 
 
