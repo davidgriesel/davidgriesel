@@ -2,15 +2,9 @@
 
 I'm a data analyst with a background in accounting and auditing who transitioned into data analytics after working extensively with financial databases.
 
-This space is where I'm sharing some of the things I've learnt along the way, through projects that explore different aspects of data analysis, statistics, and visualisation.
+I have been honing my skills in areas such as coding, statistics, and data visualisation, and this space is where I share some of the projects I've been working on.
 
 Thanks for visiting!
-
-I'm a data analyst with a background in accounting and auditing who transitioned into data analytics after working extensively with financial databases.
-
-I have been building my skills in areas such as coding, statistics, and data visualisation.
-
-This space is where I share some of the projects I've been working on, exploring different aspects of data analysis, statistical techniques, and visual storytelling.
 
 ---
 
