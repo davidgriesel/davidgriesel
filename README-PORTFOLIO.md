@@ -1,13 +1,14 @@
 # Flu Risk Forecasting
 
-## Tools Used | Skills Demonstrated 
-| :---: | :---:|
+## Tools Used
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-004E8F?logoColor=white)
+
+
 - **Excel** - Data Preparation | Analysis
-- **Word** - Reporting
 - **Tableau** - Visualisation | Forecasting | Storytelling
 
 ## Skills Demonstrated
-- Project Research | Design | Planning
+
 - Data Exploration | Description | Profiling | Cleaning | Transformation & Integration
 - Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Seasonal Forecasting
 - Deriving Insights | Data Visualisation | Reporting | Storytelling
