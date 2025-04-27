@@ -1,18 +1,7 @@
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-004E8F?logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-11557C)
-![seaborn](https://img.shields.io/badge/seaborn-76B900)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![statsmodels](https://img.shields.io/badge/statsmodels-003366)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-
 # Flu Risk Forecasting
 
-## Tools Used 
+## Tools Used | Skills Demonstrated 
+| :---: | :---:|
 - **Excel** - Data Preparation | Analysis
 - **Word** - Reporting
 - **Tableau** - Visualisation | Forecasting | Storytelling
