@@ -13,7 +13,7 @@ Thanks for visiting!
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidgriesel)
 
-[Tableau](https://img.shields.io/badge/Tableau-004E8F?logoColor=white)](https://public.tableau.com/app/profile/david.griesel/vizzes)
+[![Tableau](https://img.shields.io/badge/Tableau-004E8F?logoColor=white)](https://public.tableau.com/app/profile/david.griesel/vizzes)
 
 
 </div>
