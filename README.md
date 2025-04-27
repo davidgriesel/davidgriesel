@@ -1,68 +1,122 @@
-# Coffee Quality Modelling
-
+# Flu Risk Forecasting
 *This project was completed as part of the [CareerFoundry Data Analytics Program](https://careerfoundry.com/en/courses/become-a-data-analyst/).*
 
-
 ## Overview
+A medical staffing agency that supplies temporary personnel to clinics and hospitals across the United States is preparing for the upcoming 2018/19 influenza season. The project analysed historical influenza data to identify high-risk population groups through correlation analysis between age and deaths, examined seasonal patterns to determine the start and end of flu season, and developed a state-level risk profile to forecast when, where, and how many staff would be required.
+<br><br>
 
-This self-directed project explores global coffee quality using open-source data and machine learning principles. It examines how origin, variety, and processing factors influence sensory scores, and applies statistical and clustering techniques to uncover patterns in quality and potential indicators of demand. The analysis covers beans harvested between 2009 and 2018 and investigates which countries produce the highest-quality coffee, whether certain attributes can predict others, and if higher quality correlates with increased demand.
+## Tools
+- **Excel** - Data Preparation | Analysis
+- **Tableau** - Visualisation | Forecasting | Storytelling
+<br><br>
+
+## Process
+- Data Exploration | Description | Profiling | Cleaning | Transformation & Integration
+- Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Seasonal Forecasting
+- Visualisation | Storytelling
+<br><br>
+
+## Links
+- [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<br><br>
+
+## Data
+This analysis uses publicly available data sourced from the **Centres for Disease Control and Prevention (CDC)** and the **US Census Bureau** that cover the period 2009 to 2017. The data was provided by **CareerFoundry** as part of their Data Analytics Course.
+
+- [**Influenza-related deaths**](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) - Number of deaths by location, time, and age.
+- [**Population**](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - Number of people by location, time, age, and gender.
+<br><br>
 
 ## Key Questions
-1. Which countries produce the best coffee?  
-2. Can certain measures be used to predict the scores of others?  
-3. Is there a higher demand for coffee with better quality scores?
+1. Which age groups are most affected by influenza?
+2. Is there a relationship between population size and influenza-related deaths?
+3. When does influenza season typically start and end?
+4. How does the severity of influenza vary from year to year?
+5. Which states are most at risk?
+6. Based on risk, when, where, and how many staff should be deployed?
+<br><br>
 
+## Key Insights
 
-## Tools Used
+### 1. Vulnerable Populations
+Adults aged 65 and older account for the vast majority of influenza-related deaths and display the greatest variation in mortality.
 
-- **Python** (Jupyter | Anaconda) – Scripting Environment  
-- **pandas, numpy, os** – Data Manipulation  
-- **matplotlib, seaborn, pylab** – Plotting | Visualisation  
-- **scikit-learn, statsmodels** – Machine Learning | Statistical Modelling  
-- **folium** – Geospatial Visualisation  
-- **Tableau** – Dashboard Design
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visuals/pie-deaths-agepng.png" ><br>
+    <em>Adults aged 65 and older account for more than 60% of all influenza-related deaths — a trend that reinforces CDC classifications of this group as high risk.</em>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visuals/scatter-correlation.png" ><br>
+    <em>There is a strong positive correlation between population size and influenza-related deaths among older adults, particularly those aged 65+. This relationship weakens in younger groups, where mortality is lower and data suppression increases uncertainty.</em>
+</td>
+</tr>
+</table>
+<br>
 
+### 2. Seasonality
+Although the annual severity of influenza varied considerably, peak mortality consistently occurred in January, with Southern states often reporting the highest totals — though vulnerable states were not limited to that region.
 
-## Skills Demonstrated
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visuals/line-region-yearly.png" ><br>
+    <em>Influenza deaths rise in November, peak sharply in January, and decline through April. The South shows a notably higher average peak compared to other regions.*/em>
+</td>
+<td align="center" valign="top" width="50%">
+    <img src="visuals/bar-deaths-year.png" ><br>
+    <em>Influenza-related deaths vary from year to year, with notable surges in 2013 and 2015. The average annual death count across the period is 73,158 confirming that while flu season is consistent in timing each year, its severity can fluctuate.</em>
+</td>
+</tr>
+</table>
+<br>
 
-- Script Writing  
-- Exploratory Data Analysis | Data Wrangling | Aggregation | Subsetting  
-- Linear Regression | Clustering (K-Means) | Model Evaluation  
-- Time Series Analysis | Stationarity Testing | Lag Analysis  
-- Geospatial Mapping  
-- Visualisation | Dashboard Design
+### 3. Risk Classification & Forecasting
+States were classified into high, medium, and low risk based on their elderly populations, guiding an effective resource allocation framework.
 
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visuals/map-vulnerable.png" ><br>
+    <em>Geospatial view confirms that high-risk populations are not confined to the South — with large vulnerable populations in California, the Northeast, and parts of the Midwest.</em>
+</td>
+<td align="center" valign="top" width="50%">
+  <img src="visuals/bar-risk-population.png" ><br>
+  <em>Shows the 65+ population across U.S. states grouped into High, Medium, and Low risk profiles.</em>
+</td>
+</tr>
+</table>
 
-## Data Used
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
+    <img src="visuals/line-risk-forecast.png" <br>
+    <em>Forecasted deaths for 2018 reveal sharp seasonal peaks in high-risk states, confirming the elevated burden in these areas. Low-risk states show minimal fluctuation, indicating a reduced need for additional staff.</em>
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+<br><br>
 
-This analysis uses a modified version of data originally sourced from the **Coffee Quality Institute**, made available on **Kaggle**.
+## Key Recommendations
 
-- [**Coffee Quality Dataset**](https://www.kaggle.com/datasets/adampq/coffee-quality-with-locations-of-origin/data) – Bean origin, variety, altitude, processing method, physical attributes, flavour metrics, and total quality score, with geospatial coordinates for most entries.
-    
-The Dataset was accessed on 02 November 2024.
+1. **Prioritise high-risk states** - States with the largest 65+ populations should receive the majority of seasonal staffing resources, especially between December and February.
 
+2. **Use risk classification** - Tiering states into high, medium, and low risk allows for efficient and scalable resource planning.
 
-## Deliverables
-
-- **Tableau Dashboard** *(link to be added)*
-
+3. **Monitor early trends** - Real-time data in November can help forecast flu season severity and guide flexible staffing adjustments.
+<br><br>
 
 ## Takeaways
 
-**Successes** – The project successfully explored coffee quality measures across countries, examined relationships among sensory attributes, and demonstrated that certain quality metrics can be predicted with reasonable accuracy using others. It also served as a practical application of regression and clustering techniques using open-source data.
+### Successes
+The project delivered actionable insights into the spatial distribution of vulnerable populations, enabling the creation of a risk profile to guide regional staff allocations. It also enhanced understanding of influenza seasonality, supporting the strategic timing of deployments to meet anticipated healthcare demands.
 
-**Challenges** – The dataset lacked the granularity required to assess consumer demand relative to quality scores. This limited the ability to explore market dynamics and highlighted the importance of defining analytical objectives and data requirements clearly at the start of a project.
+### Challenges
+The available data lacked sufficient detail to account for all known risk factors in the analysis. In particular, the suppression of records for children under 5 limited risk assessment for this group, illustrating how data privacy laws can constrain public health analyses when key demographics are excluded.
 
-**Way Forward** – Future iterations should focus on sourcing a dataset that includes pricing, volumes sold, or export trends to better assess demand. Additionally, experimenting with alternative modelling techniques may improve predictions for less correlated attributes. A revised Tableau dashboard is planned to enhance visual storytelling and consolidate key insights from the notebooks into an interactive format.
+### Way Forward
+To evaluate the proposed deployment strategy, its impact should be monitored during the upcoming influenza season. Tracking performance indicators, such as staffing efficiency, response times, and patient outcomes across risk tiers, will help evaluate resource allocation and guide improvements.
 
-
-## License
-This project is licensed under the MIT License.
-
-
-## Repository Structure
-
-```text
-├── notebooks/            # Python Notebooks
-├── LICENSE               # Project License
-└── README.md             # Project Overview
+Incorporating data on chronic health conditions and vaccination rates among seniors could further strengthen the analysis by offering a more comprehensive view of factors driving influenza outcomes. This would support more targeted and effective planning in future seasons.
