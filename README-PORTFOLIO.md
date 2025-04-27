@@ -1,5 +1,18 @@
 <span style="color:red">This is red text (but may not render on GitHub).</span>
+
+
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue) 
+
+
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)](https://your-link-here.com)
+
+
+[![Tableau](https://img.shields.io/badge/Tableau-FF7F50)](https://www.tableau.com/)
+[![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-orange)]()
+[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue)]()
+
+
+
 
 # Flu Risk Forecasting
 
