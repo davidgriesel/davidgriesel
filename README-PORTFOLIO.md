@@ -1,9 +1,14 @@
 # Flu Risk Forecasting
 
+
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  - Data Preparation | Analysis
+![Tableau](https://img.shields.io/badge/Tableau-004E8F?logoColor=white) - Visualisation | Forecasting | Storytelling
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50)
+![Data Preparation](https://img.shields.io/badge/Data%20Preparation-2196F3)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-673AB7)
+
+
 ## Tools Used
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-004E8F?logoColor=white)
-
-
 - **Excel** - Data Preparation | Analysis
 - **Tableau** - Visualisation | Forecasting | Storytelling
 
