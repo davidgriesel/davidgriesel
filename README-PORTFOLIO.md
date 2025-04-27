@@ -5,7 +5,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-11557C?logo=matplotlib&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557C?logo=python&logoColor=white)
 ![seaborn](https://img.shields.io/badge/seaborn-76B900?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-003366?logo=python&logoColor=white)
