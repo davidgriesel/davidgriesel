@@ -1,20 +1,20 @@
 # Flu Risk Forecasting
 
-## Tools Used
+## Tools
 - **Excel** - Data Preparation | Analysis
 - **Tableau** - Visualisation | Forecasting | Storytelling
 
-## Skills Demonstrated
+## Process
 
 - Data Exploration | Description | Profiling | Cleaning | Transformation & Integration
 - Descriptive Statistics | Statistical Analysis | Hypothesis Testing | Trend Analysis | Seasonal Forecasting
 - Deriving Insights | Data Visualisation | Reporting | Storytelling
 
-## Deliverables
+## Links
 - **Interim Report** *(link to be added)*
 - [**Interactive Tableau Storyboard**](https://public.tableau.com/views/MedicalStaffingPlan_17430147849920/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## Data Sourced
+## Data
 This analysis uses publicly available data sourced from the **Centres for Disease Control and Prevention (CDC)** and the **US Census Bureau** that cover the period 2009 to 2017. The data was provided by **CareerFoundry** as part of their Data Analytics Course.
 
 - [**Influenza-related deaths**](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) - Number of deaths by location, time, and age.
@@ -125,18 +125,3 @@ The available data lacked sufficient detail to account for all known risk fac
 To evaluate the proposed deployment strategy, its impact should be monitored during the upcoming influenza season. Tracking performance indicators, such as staffing efficiency, response times, and patient outcomes across risk tiers, will help evaluate resource allocation and guide improvements.
 
 Incorporating data on chronic health conditions and vaccination rates among seniors could further strengthen the analysis by offering a more comprehensive view of factors driving influenza outcomes. This would support more targeted and effective planning in future seasons.
-
-
-<br><br>
-<hr>
-
-<b>Repository Structure:</b>
-
-<pre>
-├── deliverables/         # Interim Report
-├── visuals/              # Charts
-├── workbooks/            # Excel Workbooks
-├── LICENSE               # Project License
-└── README.md             # Project Overview
-</pre>
-</p>
