@@ -27,7 +27,7 @@ Thanks for visiting!
 ![Data Preparation](https://img.shields.io/badge/Data%20Preparation-2196F3)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-9C27B0)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-673AB7)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-03A9F4)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-26A69A)
 ![Storytelling](https://img.shields.io/badge/Storytelling-607D8B)
 
 </div>
