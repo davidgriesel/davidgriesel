@@ -10,7 +10,7 @@ Thanks for visiting!
 
 <div align="left">
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools <!--& Technologies-->
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
