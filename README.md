@@ -17,7 +17,7 @@ Thanks for visiting!
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 [![Tableau](https://img.shields.io/badge/Tableau-1C4481?logo=tableau&logoColor=white)](#)
-<!--[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)](#)-->
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)](#)
 
 </div>
 
@@ -38,8 +38,16 @@ Thanks for visiting!
 <div align="left">
 
 ### 📊 Projects
-- [Video Game Market Analysis](https://github.com/davidgriesel/01_video_game_market_analysis)  
-- [Flu Risk Forecasting](https://github.com/davidgriesel/02_flu_risk_forecasting)  
-- [Streaming Service Database Queries](https://github.com/davidgriesel/03_streaming_service_database_queries)  
-- [Customer Segmentation & Behavioural Analysis](https://github.com/davidgriesel/04_customer_segmentation_behavioural_analysis)  
-- [Coffee Quality Modelling](https://github.com/davidgriesel/06_coffee_quality_modelling)  
+- [![01 Video Game Market Analysis](https://img.shields.io/badge/Project-Video_Game_Analysis-blue)](https://github.com/davidgriesel/01_video_game_market_analysis) | [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](#)
+- [![02 Flu Risk Forecasting](https://img.shields.io/badge/Project-Flu_Risk_Model-green)](https://github.com/davidgriesel/02_flu_risk_forecasting) | [![Tableau](https://img.shields.io/badge/Tableau-1C4481?logo=tableau&logoColor=white)](#)
+- [![03 Streaming DB Queries](https://img.shields.io/badge/Project-Streaming_DB-yellow)](https://github.com/davidgriesel/03_streaming_service_database_queries) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](#)
+- [![04 Customer Segmentation](https://img.shields.io/badge/Project-Customer_Segmentation-orange)](https://github.com/davidgriesel/04_customer_segmentation_behavioural_analysis) | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+- [![06 Coffee Quality](https://img.shields.io/badge/Project-Coffee_Modelling-brown)](https://github.com/davidgriesel/06_coffee_quality_modelling) | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+
+
+---
+
+[🔗 View Repository](https://github.com/davidgriesel/01_video_game_market_analysis)
+</details>
+
+
