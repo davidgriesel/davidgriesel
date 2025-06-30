@@ -10,20 +10,16 @@ Thanks for visiting!
 
 ---
 
-<div align="left">
-
 ### 🛠️ Tools <!--& Technologies-->
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 [![Tableau](https://img.shields.io/badge/Tableau-1C4481?logo=tableau&logoColor=white)](#)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)](#)
+<!--[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)](#)-->
 
 </div>
 
 ---
-
-<div align="left">
 
 ### 🧠 Key Skills
 [![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4CAF50)](#)
@@ -35,19 +31,13 @@ Thanks for visiting!
 
 ---
 
-<div align="left">
-
 ### 📊 Projects
-- [![01 Video Game Market Analysis](https://img.shields.io/badge/Project-Video_Game_Analysis-blue)](https://github.com/davidgriesel/01_video_game_market_analysis) | [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](#)
-- [![02 Flu Risk Forecasting](https://img.shields.io/badge/Project-Flu_Risk_Model-green)](https://github.com/davidgriesel/02_flu_risk_forecasting) | [![Tableau](https://img.shields.io/badge/Tableau-1C4481?logo=tableau&logoColor=white)](#)
-- [![03 Streaming DB Queries](https://img.shields.io/badge/Project-Streaming_DB-yellow)](https://github.com/davidgriesel/03_streaming_service_database_queries) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](#)
-- [![04 Customer Segmentation](https://img.shields.io/badge/Project-Customer_Segmentation-orange)](https://github.com/davidgriesel/04_customer_segmentation_behavioural_analysis) | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
-- [![06 Coffee Quality](https://img.shields.io/badge/Project-Coffee_Modelling-brown)](https://github.com/davidgriesel/06_coffee_quality_modelling) | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 
-
----
-
-[🔗 View Repository](https://github.com/davidgriesel/01_video_game_market_analysis)
-</details>
-
+Name | Main Tool | Other Tools
+:---|:---|:---
+[![Project 01](https://img.shields.io/badge/Project_01-Video_Game_Analysis-blue)](https://github.com/davidgriesel/01_video_game_market_analysis) | <span>[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](#)</span> | <span>&nbsp;</span>
+[![Project 02](https://img.shields.io/badge/Project_02-Flu_Risk_Forecasting-green)](https://github.com/davidgriesel/02_flu_risk_forecasting) | <span>[![Tableau](https://img.shields.io/badge/Tableau-1C4481?logo=tableau&logoColor=white)](#)</span> | <span>[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](#)</span>
+[![Project 03](https://img.shields.io/badge/Project_03-Streaming_DB_Queries-yellow)](https://github.com/davidgriesel/03_streaming_service_database_queries) | <span>[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](#)</span> | <span>[![Tableau](https://img.shields.io/badge/Tableau-1C4481?logo=tableau&logoColor=white)](#) [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](#)</span>
+[![Project 04](https://img.shields.io/badge/Project_04-Customer_Segmentation-orange)](https://github.com/davidgriesel/04_customer_segmentation_behavioural_analysis) | <span>[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)</span> | <span>&nbsp;</span>
+[![Project 05](https://img.shields.io/badge/Project_05-Coffee_Modelling-brown)](https://github.com/davidgriesel/06_coffee_quality_modelling) | <span>[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)</span> | <span>[![Tableau](https://img.shields.io/badge/Tableau-1C4481?logo=tableau&logoColor=white)](#)</span>
 
