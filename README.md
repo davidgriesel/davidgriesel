@@ -16,7 +16,8 @@ Thanks for visiting!
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
-[![Tableau](https://img.shields.io/badge/Tableau-004E8F?logoColor=white)](#)
+[![Tableau](https://img.shields.io/badge/Tableau-1C4481?logo=tableau&logoColor=white)](#)
+<!--[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)](#)-->
 
 </div>
 
@@ -31,7 +32,5 @@ Thanks for visiting!
 [![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-673AB7)](#)
 [![Data Visualization](https://img.shields.io/badge/Data%20Visualization-26A69A)](#)
 [![Storytelling](https://img.shields.io/badge/Storytelling-607D8B)](#)
-
-</div>
 
 ---
