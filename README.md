@@ -34,3 +34,12 @@ Thanks for visiting!
 [![Storytelling](https://img.shields.io/badge/Storytelling-607D8B)](#)
 
 ---
+
+<div align="left">
+
+### 📊 Projects
+- [Video Game Market Analysis](https://github.com/davidgriesel/01_video_game_market_analysis)  
+- [Flu Risk Forecasting](https://github.com/davidgriesel/02_flu_risk_forecasting)  
+- [Streaming Service Database Queries](https://github.com/davidgriesel/03_streaming_service_database_queries)  
+- [Customer Segmentation & Behavioural Analysis](https://github.com/davidgriesel/04_customer_segmentation_behavioural_analysis)  
+- [Coffee Quality Modelling](https://github.com/davidgriesel/06_coffee_quality_modelling)  
