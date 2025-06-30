@@ -33,9 +33,8 @@ Thanks for visiting!
 
 ### 📊 Projects
 
-Name | Main Tool Used
-:---|:---
 [![Project 01](https://img.shields.io/badge/Project_01-Video_Game_Analysis-blue)](https://github.com/davidgriesel/01_video_game_market_analysis) | <span>[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](#)</span>
+:---|:---
 [![Project 02](https://img.shields.io/badge/Project_02-Flu_Risk_Forecasting-green)](https://github.com/davidgriesel/02_flu_risk_forecasting) | <span>[![Tableau](https://img.shields.io/badge/Tableau-1C4481?logo=tableau&logoColor=white)](#)</span>
 [![Project 03](https://img.shields.io/badge/Project_03-Streaming_DB_Queries-yellow)](https://github.com/davidgriesel/03_streaming_service_database_queries) | <span>[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](#)</span>
 [![Project 04](https://img.shields.io/badge/Project_04-Customer_Segmentation-orange)](https://github.com/davidgriesel/04_customer_segmentation_behavioural_analysis)| <span>[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)</span>
