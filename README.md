@@ -113,10 +113,10 @@ Thanks for visiting!
 <table>
   <thead>
     <tr>
-      <th><img src="https://img.shields.io/badge/Data-Understanding-2E7D32" alt="Data Understanding"></th>
-      <th><img src="https://img.shields.io/badge/Data-Preparation-1565C0" alt="Data Preparation"></th>
-      <th><img src="https://img.shields.io/badge/Data-Analysis-4527A0" alt="Data Analysis"></th>
-      <th><img src="https://img.shields.io/badge/Data-Communication-00796B" alt="Data Communication"></th>
+      <th style="text-align:left;"><img src="https://img.shields.io/badge/Data-Understanding-2E7D32" alt="Data Understanding"></th>
+      <th style="text-align:left;"><img src="https://img.shields.io/badge/Data-Preparation-1565C0" alt="Data Preparation"></th>
+      <th style="text-align:left;"><img src="https://img.shields.io/badge/Data-Analysis-4527A0" alt="Data Analysis"></th>
+      <th style="text-align:left;"><img src="https://img.shields.io/badge/Data-Communication-00796B" alt="Data Communication"></th>
     </tr>
   </thead>
   <tbody>
