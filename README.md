@@ -49,6 +49,120 @@ Thanks for visiting!
 
 ---
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left; vertical-align: top;">Category</th>
+      <th style="text-align:left;">Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;"><img src="https://img.shields.io/badge/Data-Understanding-2E7D32" alt="Data Understanding"></td>
+      <td>
+        <img src="https://img.shields.io/badge/Data%20Description-4CAF50"><br>
+        <img src="https://img.shields.io/badge/ERD%20Creation-4CAF50"><br>
+        <img src="https://img.shields.io/badge/Metadata%20Documentation-4CAF50"><br>
+        <img src="https://img.shields.io/badge/Data%20Profiling-4CAF50"><br>
+        <img src="https://img.shields.io/badge/Integrity%20Checks-4CAF50">
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><img src="https://img.shields.io/badge/Data-Preparation-1565C0" alt="Data Preparation"></td>
+      <td>
+        <img src="https://img.shields.io/badge/Data%20Exploration-2196F3"><br>
+        <img src="https://img.shields.io/badge/Data%20Wrangling-2196F3"><br>
+        <img src="https://img.shields.io/badge/Data%20Cleaning-2196F3"><br>
+        <img src="https://img.shields.io/badge/Quality%20Checks-2196F3"><br>
+        <img src="https://img.shields.io/badge/Business%20Rule%20Validation-2196F3"><br>
+        <img src="https://img.shields.io/badge/Subsetting-2196F3"><br>
+        <img src="https://img.shields.io/badge/Grouping-2196F3"><br>
+        <img src="https://img.shields.io/badge/Aggregation-2196F3"><br>
+        <img src="https://img.shields.io/badge/Deriving%20New%20Variables-2196F3"><br>
+        <img src="https://img.shields.io/badge/Data%20Merging-2196F3"><br>
+        <img src="https://img.shields.io/badge/Data%20Integration-2196F3"><br>
+        <img src="https://img.shields.io/badge/Data%20Transformation-2196F3">
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><img src="https://img.shields.io/badge/Data-Analysis-4527A0" alt="Data Analysis"></td>
+      <td>
+        <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-673AB7"><br>
+        <img src="https://img.shields.io/badge/Descriptive%20Statistics-673AB7"><br>
+        <img src="https://img.shields.io/badge/Segmentation-673AB7"><br>
+        <img src="https://img.shields.io/badge/Profiling-673AB7"><br>
+        <img src="https://img.shields.io/badge/Trend%20Analysis-673AB7"><br>
+        <img src="https://img.shields.io/badge/Statistical%20Analysis-673AB7"><br>
+        <img src="https://img.shields.io/badge/Hypothesis%20Testing-673AB7"><br>
+        <img src="https://img.shields.io/badge/Forecasting-673AB7">
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><img src="https://img.shields.io/badge/Data-Communication-00796B" alt="Data Communication"></td>
+      <td>
+        <img src="https://img.shields.io/badge/Visualization-26A69A"><br>
+        <img src="https://img.shields.io/badge/Presentation-26A69A"><br>
+        <img src="https://img.shields.io/badge/Storytelling-26A69A">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<table>
+  <thead>
+    <tr>
+      <th><img src="https://img.shields.io/badge/Data-Understanding-2E7D32" alt="Data Understanding"></th>
+      <th><img src="https://img.shields.io/badge/Data-Preparation-1565C0" alt="Data Preparation"></th>
+      <th><img src="https://img.shields.io/badge/Data-Analysis-4527A0" alt="Data Analysis"></th>
+      <th><img src="https://img.shields.io/badge/Data-Communication-00796B" alt="Data Communication"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Data%20Description-4CAF50"><br>
+        <img src="https://img.shields.io/badge/ERD%20Creation-4CAF50"><br>
+        <img src="https://img.shields.io/badge/Metadata%20Documentation-4CAF50"><br>
+        <img src="https://img.shields.io/badge/Data%20Profiling-4CAF50"><br>
+        <img src="https://img.shields.io/badge/Integrity%20Checks-4CAF50">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Data%20Exploration-2196F3"><br>
+        <img src="https://img.shields.io/badge/Data%20Wrangling-2196F3"><br>
+        <img src="https://img.shields.io/badge/Data%20Cleaning-2196F3"><br>
+        <img src="https://img.shields.io/badge/Quality%20Checks-2196F3"><br>
+        <img src="https://img.shields.io/badge/Business%20Rule%20Validation-2196F3"><br>
+        <img src="https://img.shields.io/badge/Subsetting-2196F3"><br>
+        <img src="https://img.shields.io/badge/Grouping-2196F3"><br>
+        <img src="https://img.shields.io/badge/Aggregation-2196F3"><br>
+        <img src="https://img.shields.io/badge/Deriving%20New%20Variables-2196F3"><br>
+        <img src="https://img.shields.io/badge/Data%20Merging-2196F3"><br>
+        <img src="https://img.shields.io/badge/Data%20Integration-2196F3"><br>
+        <img src="https://img.shields.io/badge/Data%20Transformation-2196F3">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-673AB7"><br>
+        <img src="https://img.shields.io/badge/Descriptive%20Statistics-673AB7"><br>
+        <img src="https://img.shields.io/badge/Segmentation-673AB7"><br>
+        <img src="https://img.shields.io/badge/Profiling-673AB7"><br>
+        <img src="https://img.shields.io/badge/Trend%20Analysis-673AB7"><br>
+        <img src="https://img.shields.io/badge/Statistical%20Analysis-673AB7"><br>
+        <img src="https://img.shields.io/badge/Hypothesis%20Testing-673AB7"><br>
+        <img src="https://img.shields.io/badge/Forecasting-673AB7">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Visualization-26A69A"><br>
+        <img src="https://img.shields.io/badge/Presentation-26A69A"><br>
+        <img src="https://img.shields.io/badge/Storytelling-26A69A">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### 📊 Projects
 
 [![Project 01](https://img.shields.io/badge/Project_01-Video_Game_Analysis-blue)](https://github.com/davidgriesel/01_video_game_market_analysis) | <span>[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](#)</span>
