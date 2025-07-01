@@ -12,11 +12,13 @@ Thanks for visiting!
 
 ### 🛠️ Tools <!--& Technologies-->
 <table>
-  <tr><td><a href="#"><img height="20" src="https://img.shields.io/badge/Excel-%23217346?style=plastic&logo=microsoft-excel&logoColor=white" alt="Excel"></td></tr>
-  <tr><td><a href="#"><img height="20" src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL"></td></tr>
-  <tr><td><a href="#"><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python"></td></tr>
-  <tr><td><a href="#"><img height="20" src="https://img.shields.io/badge/Tableau-1C4481?style=plastic&logo=tableau&logoColor=white" alt="Tableau"></td></tr>
-<!--  <tr><td><a href="#"><img height="20" src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=black" alt="Power BI"></td></tr>-->
+  <tr>
+    <td><a href="#"><img height="20" src="https://img.shields.io/badge/Excel-%23217346?style=plastic&logo=microsoft-excel&logoColor=white" alt="Excel"></td>
+    <td><a href="#"><img height="20" src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL"></td>
+    <td><a href="#"><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python"></td>
+    <td><a href="#"><img height="20" src="https://img.shields.io/badge/Tableau-1C4481?style=plastic&logo=tableau&logoColor=white" alt="Tableau"></td>
+<!--  <td><a href="#"><img height="20" src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=black" alt="Power BI"></td>-->
+  </tr>
 </table>
 
 ---
