@@ -11,17 +11,13 @@ Thanks for visiting!
 ---
 
 ### 🛠️ Tools <!--& Technologies-->
-<!--[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](#)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
-[![Tableau](https://img.shields.io/badge/Tableau-1C4481?logo=tableau&logoColor=white)](#)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)](#)-->
-[![Excel](https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)<br>
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)<br>
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)<br>
-[![Tableau](https://img.shields.io/badge/Tableau-1C4481?style=for-the-badge&logo=tableau&logoColor=white)](#)<br>
-
-</div>
+<table>
+  <tr><td><a href="#"><img src="https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a></td></tr>
+  <tr><td><a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a></td></tr>
+  <tr><td><a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a></td></tr>
+  <tr><td><a href="#"><img src="https://img.shields.io/badge/Tableau-1C4481?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a></td></tr>
+  <tr><td><a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"></a></td></tr>
+</table>
 
 ---
 
@@ -109,14 +105,61 @@ Thanks for visiting!
 
 ---
 
-### 📊 Projects
+### 📊 Projects 
 
-[![Project 01](https://img.shields.io/badge/Project_01-Video_Game_Analysis-blue)](https://github.com/davidgriesel/01_video_game_market_analysis) | <span>[![Excel](https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)</span>
-:---|:---
-[![Project 02](https://img.shields.io/badge/Project_02-Flu_Risk_Forecasting-green)](https://github.com/davidgriesel/02_flu_risk_forecasting) | <span>[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)</span>
-[![Project 03](https://img.shields.io/badge/Project_03-Streaming_DB_Queries-yellow)](https://github.com/davidgriesel/03_streaming_service_database_queries) | <span>[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)</span>
-[![Project 04](https://img.shields.io/badge/Project_04-Customer_Segmentation-orange)](https://github.com/davidgriesel/04_customer_segmentation_behavioural_analysis)| <span>[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)</span>
-[![Project 05](https://img.shields.io/badge/Project_05-Coffee_Modelling-brown)](https://github.com/davidgriesel/06_coffee_quality_modelling) | <span>[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)</span>
+<!--[![List of Project](https://img.shields.io/badge/Projects-555?style=for-the-badge)](#) | [![Main Tool](https://img.shields.io/badge/Main_Tool-555?style=for-the-badge)](#)-->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/davidgriesel/01_video_game_market_analysis">
+        <img src="https://img.shields.io/badge/01-Video_Game_Analysis-blue?style=for-the-badge" alt="Project 01">
+      </a>
+    </td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/davidgriesel/02_flu_risk_forecasting">
+        <img src="https://img.shields.io/badge/02-Flu_Risk_Forecasting-green?style=for-the-badge" alt="Project 02">
+      </a>
+    </td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Tableau-1C4481?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/davidgriesel/03_streaming_service_database_queries">
+        <img src="https://img.shields.io/badge/03-Streaming_DB_Queries-yellow?style=for-the-badge" alt="Project 03">
+      </a>
+    </td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/davidgriesel/04_customer_segmentation_behavioural_analysis">
+        <img src="https://img.shields.io/badge/04-Customer_Segmentation-orange?style=for-the-badge" alt="Project 04">
+      </a>
+    </td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/davidgriesel/06_coffee_quality_modelling">
+        <img src="https://img.shields.io/badge/05-Coffee_Modelling-brown?style=for-the-badge" alt="Project 05">
+      </a>
+    </td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
