@@ -21,26 +21,6 @@ Thanks for visiting!
   </tr>
 </table>
 
-
-
-
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 25%; text-align: center;">
-      <a href="#"><img height="20" src="https://img.shields.io/badge/Excel-%23217346?style=plastic&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
-    </td>
-    <td style="width: 25%; text-align: center;">
-      <a href="#"><img height="20" src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-    </td>
-    <td style="width: 25%; text-align: center;">
-      <a href="#"><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python"></a>
-    </td>
-    <td style="width: 25%; text-align: center;">
-      <a href="#"><img height="20" src="https://img.shields.io/badge/Tableau-1C4481?style=plastic&logo=tableau&logoColor=white" alt="Tableau"></a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ### 🧠 Skills
