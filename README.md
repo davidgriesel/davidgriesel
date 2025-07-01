@@ -16,7 +16,7 @@ Thanks for visiting!
   <tr><td><a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL"></a></td></tr>
   <tr><td><a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python"></a></td></tr>
   <tr><td><a href="#"><img src="https://img.shields.io/badge/Tableau-1C4481?style=plastic&logo=tableau&logoColor=white" alt="Tableau"></a></td></tr>
-  <tr><td><a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=black" alt="Power BI"></a></td></tr>
+<!--  <tr><td><a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=black" alt="Power BI"></a></td></tr>-->
 </table>
 
 ---
