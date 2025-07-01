@@ -12,11 +12,11 @@ Thanks for visiting!
 
 ### 🛠️ Tools <!--& Technologies-->
 <table>
-  <tr><td><img height="20" src="https://img.shields.io/badge/Excel-%23217346?style=plastic&logo=microsoft-excel&logoColor=white" alt="Excel"></td></tr>
-  <tr><td><img height="20" src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL"></td></tr>
-  <tr><td><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python"></td></tr>
-  <tr><td><img height="20" src="https://img.shields.io/badge/Tableau-1C4481?style=plastic&logo=tableau&logoColor=white" alt="Tableau"></td></tr>
-<!--  <tr><td><img height="20" src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=black" alt="Power BI"></td></tr>-->
+  <tr><td><a href="#"><img height="20" src="https://img.shields.io/badge/Excel-%23217346?style=plastic&logo=microsoft-excel&logoColor=white" alt="Excel"></td></tr>
+  <tr><td><a href="#"><img height="20" src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL"></td></tr>
+  <tr><td><a href="#"><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python"></td></tr>
+  <tr><td><a href="#"><img height="20" src="https://img.shields.io/badge/Tableau-1C4481?style=plastic&logo=tableau&logoColor=white" alt="Tableau"></td></tr>
+<!--  <tr><td><a href="#"><img height="20" src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=black" alt="Power BI"></td></tr>-->
 </table>
 
 ---
@@ -24,80 +24,80 @@ Thanks for visiting!
 ### 🧠 Skills
 <table>
     <tr>
-      <td><img height="20" src="https://img.shields.io/badge/Data-Understanding-2E7D32?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Data-Preparation-1565C0?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Data-Analysis-4527A0?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Data-Communication-00796B?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data-Understanding-2E7D32?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data-Preparation-1565C0?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data-Analysis-4527A0?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data-Communication-00796B?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
     </tr>
     <tr>
-      <td><img height="20" src="https://img.shields.io/badge/Data%20Description-4CAF50?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Data%20Exploration-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Visualization-26A69A?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data%20Description-4CAF50?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data%20Exploration-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Visualization-26A69A?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
     </tr>
     <tr>
-      <td><img height="20" src="https://img.shields.io/badge/ERD%20Creation-4CAF50?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Data%20Wrangling-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Descriptive%20Statistics-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Presentation-26A69A?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/ERD%20Creation-4CAF50?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data%20Wrangling-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Descriptive%20Statistics-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Presentation-26A69A?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
     </tr>
     <tr>
-      <td><img height="20" src="https://img.shields.io/badge/Metadata%20Documentation-4CAF50?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Data%20Cleaning-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Segmentation-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Storytelling-26A69A?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Metadata%20Documentation-4CAF50?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data%20Cleaning-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Segmentation-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Storytelling-26A69A?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
     </tr>
     <tr>
-      <td><img height="20" src="https://img.shields.io/badge/Data%20Profiling-4CAF50?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Quality%20Checks-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Profiling-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data%20Profiling-4CAF50?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Quality%20Checks-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Profiling-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
       <td></td>
     </tr>
     <tr>
-      <td><img height="20" src="https://img.shields.io/badge/Integrity%20Checks-4CAF50?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Business%20Rule%20Validation-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Trend%20Analysis-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td><img height="20" src="https://img.shields.io/badge/Subsetting-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Statistical%20Analysis-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Integrity%20Checks-4CAF50?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Business%20Rule%20Validation-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Trend%20Analysis-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td><img height="20" src="https://img.shields.io/badge/Grouping-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Hypothesis%20Testing-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Subsetting-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Statistical%20Analysis-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td><img height="20" src="https://img.shields.io/badge/Aggregation-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td><img height="20" src="https://img.shields.io/badge/Forecasting-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Grouping-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Hypothesis%20Testing-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td><img height="20" src="https://img.shields.io/badge/Deriving%20New%20Variables-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
-      <td></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Aggregation-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Forecasting-673AB7?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td><img height="20" src="https://img.shields.io/badge/Data%20Merging-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Deriving%20New%20Variables-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td><img height="20" src="https://img.shields.io/badge/Data%20Integration-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data%20Merging-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td></td>
-      <td><img height="20" src="https://img.shields.io/badge/Data%20Transformation-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data%20Integration-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data%20Transformation-2196F3?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></td>
       <td></td>
       <td></td>
     </tr>
