@@ -110,6 +110,14 @@ Today, I apply these principles to projects that uncover insights, improve proce
       </a>
      </td>
     </tr>
+   </table>
+  </td>
+ </tr>
+</table>
+
+---
+
+<!--
     <tr>
      <td>
       <a href="https://github.com/davidgriesel/06_coffee_quality_modelling">
@@ -122,9 +130,5 @@ Today, I apply these principles to projects that uncover insights, improve proce
       </a>
      </td>
     </tr>
-   </table>
-  </td>
- </tr>
-</table>
 
----
+-->
