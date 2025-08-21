@@ -8,8 +8,6 @@ This is where I showcase a few projects, each one highlighting the different too
 
 Thanks for visiting!
 
----
-
 [More About Me](./ABOUTME.md)
 
 ---
