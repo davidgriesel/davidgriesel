@@ -9,5 +9,5 @@ Since then, I’ve expanded my skills in coding, statistics, advanced analytics,
 
 Today, I apply these principles to projects that uncover insights, improve processes, and contribute to better decision-making through data.
 
-[Back to main README](../README.md)
+[Back to main README](./README.md)
 ---
