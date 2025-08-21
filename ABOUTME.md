@@ -1,4 +1,4 @@
-### More About Me
+# More About Me
 I’m a data analyst with a background in accounting and auditing that started out supporting small businesses with financial reporting and analysis, before moving into public sector audit. 
 
 Working with financial databases gave me a solid understanding of how data is structured, processed, and used to support decision-making. As I progressed to larger and more complex datasets, I began applying this knowledge to improve audit processes through data analytics and computer-assisted audit techniques (CAATs).
@@ -9,5 +9,7 @@ Since then, I’ve expanded my skills in coding, statistics, advanced analytics,
 
 Today, I apply these principles to projects that uncover insights, improve processes, and contribute to better decision-making through data.
 
+
 [Back to main README](./README.md)
+
 ---
