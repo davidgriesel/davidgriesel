@@ -49,9 +49,6 @@ Today, I apply these principles to projects that uncover insights, improve proce
    <h3>🧠 Skills</h3>
    <table width="100%">
     <tr>
-     <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data-Understanding-2E7D32?style=plastic&logo=data&logoColor=white" alt="Data Understanding"></a></td>
-    </tr>
-    <tr>
      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data-Preparation-1565C0?style=plastic&logo=data&logoColor=white" alt="Data Preparation"></a></td>
     </tr>
     <tr>
