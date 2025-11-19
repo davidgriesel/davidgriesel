@@ -15,7 +15,7 @@ Thanks for visiting!
 <table width="100%">
  <tr>
   <td valign="top" width="33%">
-   <h3>🛠️ Tools</h3>
+   <h3> Tools</h3>
    <table width="100%">
     <tr>
      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Excel-%23217346?style=plastic&logo=microsoft-excel&logoColor=white" alt="Excel"></a></td>
@@ -35,7 +35,7 @@ Thanks for visiting!
    </table>
   </td>
   <td valign="top" width="33%">
-   <h3>🧠 Skills</h3>
+   <h3> Skills</h3>
    <table width="100%">
     <tr>
      <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data-Preparation-1565C0?style=plastic&logo=data&logoColor=white" alt="Data Preparation"></a></td>
@@ -49,7 +49,7 @@ Thanks for visiting!
    </table>
   </td>
   <td valign="top" width="34%">
-   <h3>📊 Projects</h3>
+   <h3> Projects</h3>
   <table width="100%">
     <tr>
      <td>
