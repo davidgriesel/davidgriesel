@@ -22,18 +22,18 @@ Thanks for visiting!
 
 [![01 - Video Game Market Analysis](https://img.shields.io/badge/Repo_01-Video_Game_Analysis-4078c0?style=flat-square)](https://github.com/davidgriesel/01_video_game_market_analysis) <br>
 ![Excel](https://img.shields.io/badge/Excel-%23217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-
+<br><br>
 
 [![02 - Flu Risk Forecasting](https://img.shields.io/badge/Repo_02-Flu_Risk_Forecasting-4078c0?style=flat-square)](https://github.com/davidgriesel/02_flu_risk_forecasting)<br>
 ![Excel](https://img.shields.io/badge/Excel-%23217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-1C4481?style=flat-square&logo=tableau&logoColor=white)
-
+<br><br>
 
 [![03 - Streaming Service Database Queries](https://img.shields.io/badge/Repo_03-Streaming_DB_Queries-4078c0?style=flat-square)](https://github.com/davidgriesel/03_streaming_service_database_queries)<br>
 ![Excel](https://img.shields.io/badge/Excel-%23217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-1C4481?style=flat-square&logo=tableau&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+<br><br>
 
 [![04 - Customer Segmentation & Behavioural Analysis](https://img.shields.io/badge/Repo_04-Customer_Segmentation-4078c0?style=flat-square)](https://github.com/davidgriesel/04_customer_segmentation_behavioural_analysis)<br>
 ![Excel](https://img.shields.io/badge/Excel-%23217346?style=flat-square&logo=microsoft-excel&logoColor=white)
