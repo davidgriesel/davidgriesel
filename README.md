@@ -15,87 +15,99 @@ Thanks for visiting!
 <table width="100%">
  <tr>
   <td valign="top" width="33%">
-   <h3>Tools</h3>
    <table width="100%">
     <tr>
-     <td><a href="#"><img height="20" src="https://img.shields.io/badge/Excel-%23217346?style=plastic&logo=microsoft-excel&logoColor=white" alt="Excel"></a></td>
+     <td><img height="30" src="https://img.shields.io/badge/Tools-2C3E50?style=flat-square&logoColor=white" alt="Tools"></td>
+    </tr>
+   </table>
+   <table width="100%">
+    <tr>
+     <td><a href="#"><img src="https://img.shields.io/badge/Excel-%23217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel"></a></td>
     </tr>
     <tr>
-     <td><a href="#"><img height="20" src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL"></a></td>
+     <td><a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></a></td>
     </tr>
     <tr>
-     <td><a href="#"><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python"></a></td>
+     <td><a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a></td>
     </tr>
     <tr>
-     <td><a href="#"><img height="20" src="https://img.shields.io/badge/Tableau-1C4481?style=plastic&logo=tableau&logoColor=white" alt="Tableau"></a></td>
+     <td><a href="#"><img src="https://img.shields.io/badge/Tableau-1C4481?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"></a></td>
     </tr>
     <tr>
-     <td><a href="#"><img height="20" src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=black" alt="Power BI"></a></td>
+     <td><a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI"></a></td>
     </tr>
    </table>
   </td>
   <td valign="top" width="33%">
-   <h3>Skills</h3>
    <table width="100%">
     <tr>
-     <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data-Preparation-1565C0?style=plastic&logo=data&logoColor=white" alt="Data Preparation"></a></td>
+     <td><img height="30" src="https://img.shields.io/badge/Skills-2C3E50?style=flat-square&logoColor=white" alt="Skills"></td>
+    </tr>
+   </table>
+   <table width="100%">
+    <tr>
+     <td><a href="#"><img src="https://img.shields.io/badge/Data-Preparation-2C3E50?style=flat-square&logo=data&logoColor=white" alt="Data Preparation"></a></td>
     </tr>
     <tr>
-     <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data-Analysis-4527A0?style=plastic&logo=data&logoColor=white" alt="Data Analysis"></a></td>
+     <td><a href="#"><img src="https://img.shields.io/badge/Data-Analysis-2C3E50?style=flat-square&logo=data&logoColor=white" alt="Data Analysis"></a></td>
     </tr>
     <tr>
-     <td><a href="#"><img height="20" src="https://img.shields.io/badge/Data-Communication-00796B?style=plastic&logo=data&logoColor=white" alt="Data Communication"></a></td>
+     <td><a href="#"><img src="https://img.shields.io/badge/Data-Communication-2C3E50?style=flat-square&logo=data&logoColor=white" alt="Data Communication"></a></td>
     </tr>
    </table>
   </td>
   <td valign="top" width="34%">
-   <h3>Projects</h3>
+   <table width="100%">
+    <tr>
+     <td><img height="30" src="https://img.shields.io/badge/Projects-2C3E50?style=flat-square&logoColor=white" alt="Projects"></td>
+    </tr>
+   </table>
   <table width="100%">
     <tr>
      <td>
       <a href="https://github.com/davidgriesel/01_video_game_market_analysis">
-       <img height="20" src="https://img.shields.io/badge/01-Video_Game_Analysis-blue?style=plastic" alt="01 - Video Game Analysis">
+       <img src="https://img.shields.io/badge/Repo 01-Video_Game_Analysis-2C3E50?style=flat-square" alt="01 - Video Game Analysis">
       </a>
      </td>
      <td>
       <a href="#">
-       <img height="20" src="https://img.shields.io/badge/Excel-%23217346?style=plastic&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
+       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
       </a>
      </td>
     </tr>
     <tr>
      <td>
       <a href="https://github.com/davidgriesel/02_flu_risk_forecasting">
-       <img height="20" src="https://img.shields.io/badge/02-Flu_Risk_Forecasting-green?style=plastic" alt="02 - Flu Risk Forecasting">
+       <img src="https://img.shields.io/badge/Repo 02-Flu_Risk_Forecasting-2C3E50?style=flat-square" alt="02 - Flu Risk Forecasting">
       </a>
      </td>
      <td>
       <a href="#">
-       <img height="20" src="https://img.shields.io/badge/Tableau-1C4481?style=plastic&logo=tableau&logoColor=white" alt="Tableau">
+       <img src="https://img.shields.io/badge/Tableau-1C4481?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
       </a>
      </td>
     </tr>
     <tr>
      <td>
       <a href="https://github.com/davidgriesel/03_streaming_service_database_queries">
-       <img height="20" src="https://img.shields.io/badge/03-Streaming_DB_Queries-yellow?style=plastic" alt="03 - Streaming Service Database Queries">
+       <img src="https://img.shields.io/badge/Repo 03-Streaming_DB_Queries-2C3E50?style=flat-square" alt="03 - Streaming Service Database Queries">
       </a>
      </td>
      <td>
       <a href="#">
-       <img height="20" src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL">
+       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
       </a>
      </td>
     </tr>
     <tr>
      <td>
       <a href="https://github.com/davidgriesel/04_customer_segmentation_behavioural_analysis">
-       <img height="20" src="https://img.shields.io/badge/04-Customer_Segmentation-orange?style=plastic" alt="04 - Customer Segmentation and Behavioural Analysis">
+       <img src="https://img.shields.io/badge/Repo 04-Customer_Segmentation-2C3E50?style=flat-square" alt="04 - Customer Segmentation and Behavioural Analysis">
       </a>
      </td>
      <td>
       <a href="#">
-       <img height="20" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python">
+       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       </a>
      </td>
     </tr>
