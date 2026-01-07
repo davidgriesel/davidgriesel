@@ -2,7 +2,7 @@
 
 I'm a data analyst with a background in accounting and auditing, who transitioned into data analytics after working extensively with financial databases.
 
-Being curious by nature, I enjoy uncovering patterns and trends in large datasets, learning how to use new tools and techniques that turn raw data into practical insight and value, and finding smarter, more efficient ways to work.
+Being curious by nature, I enjoy uncovering patterns and trends in large datasets, learning how to use new tools and techniques that turn raw data into practical insights, and finding smarter, more efficient ways to work.
 
 This is where I showcase a few projects, each one highlighting the different tools I use, the skills I’ve developed, and the progress I’m making as I continue to grow in the field of data analytics.
 
@@ -39,7 +39,7 @@ Thanks for visiting!
 <img src="https://img.shields.io/badge/Excel-%23217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" style="pointer-events: none; cursor: default;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="pointer-events: none; cursor: default;">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" style="pointer-events: none; cursor: default;">
-<img src="https://img.shields.io/badge/Conda%20(Anaconda)-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Conda (Anaconda)" style="pointer-events: none; cursor: default;">
+<img src="https://img.shields.io/badge/Conda%20(Anaconda)-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" style="pointer-events: none; cursor: default;">
 
 ---
 
