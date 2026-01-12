@@ -1,6 +1,6 @@
 # Hello, my name is David, and welcome to my GitHub page!
 
-I'm a data analyst with a background in accounting and auditing, who transitioned into data analytics after working extensively with financial databases.
+I'm a data analyst with a background in accounting and auditing.
 
 Being curious by nature, I enjoy uncovering patterns and trends in large datasets, learning how to use new tools and techniques that turn raw data into practical insights, and finding smarter, more efficient ways to work.
 
