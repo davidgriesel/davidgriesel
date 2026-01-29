@@ -1,6 +1,8 @@
 # Hi, I'm David
 
-I'm a data analyst with a background in accounting and auditing, and this is where I share a few representative projects using open-source and synthetic datasets to demonstrate my tools, skills, and professional learning journey. 
+I'm a data analyst with a background in accounting and auditing. 
+
+This is where I share a few representative projects using open-source and synthetic datasets to demonstrate my tools, skills, and professional learning journey. 
 
 If you are interested in my professional background, you can find more on [LinkedIn](https://www.linkedin.com/in/davidgriesel).
 
