@@ -26,6 +26,10 @@ If you’re interested in my professional background, you can find more context 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="pointer-events: none; cursor: default;">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" style="pointer-events: none; cursor: default;">
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" style="pointer-events: none; cursor: default;">
+<br><br>
+
+[![05 - Job Listings Dashboard](https://img.shields.io/badge/Repo_05-Job_Listings_Dashboard-4078c0?style=flat-square)](https://github.com/davidgriesel/job_listing_dashboard)<br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" style="pointer-events: none; cursor: default;">
 
 ---
 
@@ -34,7 +38,7 @@ If you’re interested in my professional background, you can find more context 
 
 ## Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" style="pointer-events: none; cursor: default;">
+
 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" style="pointer-events: none; cursor: default;">
 
